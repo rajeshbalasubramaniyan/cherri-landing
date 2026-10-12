@@ -1,5 +1,5 @@
 // The CHERRI GROUP apps. `daydream` is the true origin story in Anthra's journey;
-// leave it null until Raj shares it (never invent one).
+// all four come from Raj (never invent or embellish one).
 // SHAPES and WORDS link to their folders on cherri.group until their subdomains exist.
 export const APPS = [
   {
@@ -42,7 +42,7 @@ export const APPS = [
     color: '#0284C7',
     soft: '#F0F9FF',
     url: 'https://cherri.group/shapes/',
-    daydream: null,
+    daydream: "Anthra was learning the basics of geometry, and the textbook definitions just would not land. Reading what a shape is and understanding it are two different things. So her Dada built shapes she could tap, turn and count for herself.",
   },
   {
     id: 'words',
@@ -56,6 +56,6 @@ export const APPS = [
     color: '#E02424',
     soft: '#FFF1E8',
     url: 'https://cherri.group/words/',
-    daydream: null,
+    daydream: "If cut is cut, then why is cute cute? Anthra never asked it out loud, but English spelling made no sense to her. Is it ie or ei? Why is there a gh? Why put a letter in a word if nobody says it? Every child hits this wall. CHERRI WORDS takes those questions one at a time.",
   },
 ]
